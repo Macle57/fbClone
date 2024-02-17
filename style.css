@@ -1,0 +1,93 @@
+.root{
+
+}
+
+#fbimg{
+    height: 150px;
+}
+
+body{
+    background-color: #eef0f3;
+}
+#b1{
+    display: block;
+    position: absolute;
+    top: 41%;
+    left: 31%;
+    transform: translate(-50%, -50%);
+    margin-top: auto;
+    height: fit-content;
+    width: 470px;
+
+}
+
+.inpuT{
+    margin-bottom: 10px;
+    border-radius: 6px;
+    width: 100%;
+    border: grey 1px solid;
+    height: 30px;
+    padding: 8px;
+    position: relative;
+    right: 2%;
+}
+
+h2{
+    position: relative;
+    top: -50px;
+    font-size: 30px;
+    font-weight: unset;
+}
+
+h3{
+    font-weight: normal;
+    margin: 4% 0% 5% 0%;
+    color: #0865fd;
+}
+
+#Login{
+    background-color: #0865fd;
+    color: white;
+    position: relative;
+    top: 3%;
+    height: 18%;
+    width: 104%;
+    font-size: 25px;
+}
+
+#newAccButton{
+    background-color: #41b62a;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    scale: 1.4;
+    height: 12%;
+    margin: 2% 0% 3% 0%;
+    
+}
+
+a{
+    text-decoration: none;
+    font-weight: normal;
+}
+
+#lastLine{
+    font-size: 109%;
+    position: relative;
+    top: 3vh;
+}
+#lPassBox{
+    position: absolute;
+    border: none;
+    border-radius: 6px;
+    box-shadow: 0 10px 30px black;
+    top: 41%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    width: 25vw;
+    height: 37%;
+
+}
